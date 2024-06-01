@@ -1,0 +1,14 @@
+
+
+Requisição HTTP
+
+URL: http://pokeapi.co/api/v2/pokemon
+     ${IP}/{path = caminho de identificação do recurso}
+
+     IP: https://pokeapi.co
+     Path: /api/v2/pokemon
+
+     request header: configuração
+     request response: configuração
+
+ip e porta do servidor e o endereço do recurso que queremos
